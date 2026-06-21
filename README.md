@@ -1,2 +1,14 @@
 # cn-jcw-notes
-HTML page archive and documentation
+
+静态内容发布记录
+
+这个仓库用于保存自动发布的独立 HTML 页面。
+
+## 文件归档
+
+- HTML 页面用于访问展示
+- README 用于说明归档用途
+
+## 维护说明
+
+页面内容会根据发布任务逐步追加，具体状态以提交记录为准。
